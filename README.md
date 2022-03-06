@@ -1,11 +1,12 @@
 <h1> Hello World! My name is Fábio. </h1>
 
+    <img align="center" width="148" height="180" src="https://c.tenor.com/huWvpTgSDv4AAAAC/website-development-website.gif"><br>
+
 <div>
-    <img align="center" width="148" height="180" src="https://c.tenor.com/huWvpTgSDv4AAAAC/website-development-website.gif">
-</div><br>
+
   <a href="https://github.com/FabioBarbirato">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=FabioBarbirato&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioBarbirato&layout=compact&langs_count=7&theme=chartreuse-dark" />
+  <img height="170em"   align="center" src="https://github-readme-stats.vercel.app/api?username=FabioBarbirato&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="170em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioBarbirato&layout=compact&langs_count=7&theme=chartreuse-dark" />
 
 
  <br>
