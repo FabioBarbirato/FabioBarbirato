@@ -10,7 +10,7 @@
   <img height="170em" width="420"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioBarbirato&layout=compact&langs_count=7&theme=chartreuse-dark" />
 
  <br>
- <h2> Minhas redes sociais:
+ <h2> Minhas redes sociais:<br>
   <a href="https://www.instagram.com/fabio.barbirato/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabio-barbirato/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
