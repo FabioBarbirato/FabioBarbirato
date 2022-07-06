@@ -1,5 +1,7 @@
 <h1> Hello World! My name is Fábio. </h1>
 
+[![Fábio Barbirato da Silva](https://github-readme-stats.vercel.app/api?username=fabiobarbirato)](https://github.com/fabiobarbirato/github-readme-stats)
+
 <div>
     <img align="center" width="180" height="180" src="https://c.tenor.com/huWvpTgSDv4AAAAC/website-development-website.gif"><br>
 </div>
